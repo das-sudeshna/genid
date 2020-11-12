@@ -1,6 +1,6 @@
 # NER-g
 
-Datasets used in the article [Context-sensitive Gender Inference of Named Entities in Text](https://doi.org/10.1145/3209978.3210228).
+Datasets used in the article [Context-sensitive Gender Inference of Named Entities in Text](https://doi.org/10.1016/j.ipm.2020.102423).
 
 ## Datasets
 
@@ -34,7 +34,7 @@ For details, please refer to Section 3 of the article.
 
 ## Citing
 
-If you find this dataset useful, please cite [Context-sensitive Gender Inference of Named Entities in Text](https://doi.org/10.1145/3209978.3210228).
+If you find this dataset useful, please cite [Context-sensitive Gender Inference of Named Entities in Text](https://doi.org/10.1016/j.ipm.2020.102423).
 
 ```
 @article{DAS2021102423,
