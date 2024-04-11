@@ -1,6 +1,6 @@
 # NER-g
 
-Datasets used in the article [Context-sensitive Gender Inference of Named Entities in Text](https://doi.org/10.1016/j.ipm.2020.102423).
+Datasets used in the articles [Context-sensitive Gender Inference of Named Entities in Text](https://doi.org/10.1016/j.ipm.2020.102423) and []().
 
 ## Datasets
 
@@ -34,7 +34,22 @@ For details, please refer to Section 3 of the article.
 
 ## Citing
 
-If you find this dataset useful, please cite [Context-sensitive Gender Inference of Named Entities in Text](https://doi.org/10.1016/j.ipm.2020.102423).
+If you find this dataset useful, please cite:
+
+```
+@article{das2023gender,
+  title={Gender tagging of named entities using retrieval-assisted multi-context aggregation: An unsupervised approach},
+  author={Das, Sudeshna and Paik, Jiaul H},
+  journal={Journal of the Association for Information Science and Technology},
+  volume={74},
+  number={4},
+  pages={461--475},
+  year={2023},
+  doi="https://doi.org/10.1002/asi.24735",
+  url="https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/asi.24735"
+  publisher={Wiley Online Library}
+}
+```
 
 ```
 @article{DAS2021102423,
