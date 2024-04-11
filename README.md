@@ -22,9 +22,10 @@ NER tags for these datasets can be obtained from the sources listed below:
 The files are in CoNLL format: each line contains one token and its corresponding gender label separated by a tab. Document boundaries are denoted by blank lines. 
 
 ### Tag set:
-1. `O` - `Other` / `Out` (not part of `PERSON` named entity)
+1. `O` - `Out` (not part of `PERSON` named entity)
 2. `F` - `Female`
 3. `M` - `Male`
+4. `A` - `Ambiguous`
 
 ## Pre-processing & Annotation
 
